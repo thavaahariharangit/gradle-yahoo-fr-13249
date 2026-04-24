@@ -1,1 +1,2 @@
-
+io.opentelemetry:opentelemetry-api:1.51.0=compileClasspath,runtimeClasspath,testCompileClasspath,testRuntimeClasspath
+empty=
