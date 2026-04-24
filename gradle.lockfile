@@ -1,2 +1,6 @@
-io.opentelemetry:opentelemetry-api:1.51.0=compileClasspath,runtimeClasspath,testCompileClasspath,testRuntimeClasspath
+# gradle.lockfile
+org.junit:junit-bom:5.10.0=compileClasspath,runtimeClasspath,testCompileClasspath,testRuntimeClasspath
+org.junit.jupiter:junit-jupiter-api:5.10.0=compileClasspath,runtimeClasspath,testCompileClasspath,testRuntimeClasspath
+org.junit.platform:junit-platform-commons:1.10.0=compileClasspath,runtimeClasspath,testCompileClasspath,testRuntimeClasspath
+org.opentest4j:opentest4j:1.3.0=compileClasspath,runtimeClasspath,testCompileClasspath,testRuntimeClasspath
 empty=
